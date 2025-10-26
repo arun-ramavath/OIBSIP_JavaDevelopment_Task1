@@ -25,10 +25,12 @@ To create a straightforward console-based Java application for an online reserva
 - Ticket cancellation message confirming.
 
 ## 📸 Screenshots 
-(Attach images of your console output here)
+<img width="1210" height="843" alt="image" src="https://github.com/user-attachments/assets/02573dd7-4915-446d-82ce-f8c5536315b7" />
+
 
 ## 🧑‍💻 Author 
 *R. Arun*  
 OIB-SIP Java Development Intern  
+
 
 ---
